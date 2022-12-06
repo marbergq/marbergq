@@ -1,7 +1,7 @@
 # Martin Bergqlin / marbergq
 
+![svgviewer-output](https://user-images.githubusercontent.com/2405410/206014777-22d41ecb-c24f-421d-b7d9-bba2cb5bb0de.svg)
 
-<img src="https://ourstudio.se/images/ourstudio_logo_white.png" alt="drawing" width="200"/>
+<br>
 
 [![Martin's Week](https://github-readme-stats.vercel.app/api/wakatime?username=marbergq&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
