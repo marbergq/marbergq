@@ -9,3 +9,6 @@
 ![marbergq's GitHub stats](https://github-readme-stats.vercel.app/api?username=marbergq&count_private=true&show_icons=true)
 
 ![svgviewer-output](https://wakatime.com/badge/user/3f0a2069-6683-4e19-9a4a-7d21ea815067.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
