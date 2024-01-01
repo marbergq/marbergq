@@ -19,7 +19,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,898 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,5 +85,5 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 00:14:23 UTC
+ Last Updated on 01/01/2024 00:14:30 UTC
 <!--END_SECTION:waka-->
