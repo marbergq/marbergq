@@ -11,7 +11,7 @@
 ![svgviewer-output](https://wakatime.com/badge/user/3f0a2069-6683-4e19-9a4a-7d21ea815067.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C869%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C870%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,10 +55,10 @@ Sunday                   490 commits         ░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Go                       14 hrs 15 mins      ████████████░░░░░░░░░░░░░   46.38 % 
-Python                   5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Python                   5 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 YAML                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-JSON                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-HTML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+JSON                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🔥 Editors: 
 VS Code                  30 hrs 8 mins       █████████████████████████   98.08 % 
@@ -92,5 +92,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2024 00:17:45 UTC
+ Last Updated on 25/03/2024 00:17:00 UTC
 <!--END_SECTION:waka-->
