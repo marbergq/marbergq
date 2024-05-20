@@ -19,8 +19,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 780 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -91,5 +89,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 00:18:01 UTC
+ Last Updated on 20/05/2024 00:19:57 UTC
 <!--END_SECTION:waka-->
