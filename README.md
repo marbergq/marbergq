@@ -19,8 +19,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 975 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -54,21 +52,16 @@ Sunday                   630 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-Go                       6 hrs 10 mins       ██████████████████████░░░   89.96 % 
-GraphQL                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tasks                    5 hrs 33 mins       ████████████████████░░░░░   81.05 % 
-pfcore                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -88,5 +81,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 00:20:01 UTC
+ Last Updated on 14/07/2024 00:20:01 UTC
 <!--END_SECTION:waka-->
