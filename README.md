@@ -11,13 +11,15 @@
 ![svgviewer-output](https://wakatime.com/badge/user/3f0a2069-6683-4e19-9a4a-7d21ea815067.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C694%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2025
+> 🏆 32 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,5 +44,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 00:29:32 UTC
+ Last Updated on 11/01/2025 00:29:40 UTC
 <!--END_SECTION:waka-->
