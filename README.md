@@ -19,6 +19,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 598 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -91,5 +93,5 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 00:27:34 UTC
+ Last Updated on 22/04/2025 00:26:57 UTC
 <!--END_SECTION:waka-->
