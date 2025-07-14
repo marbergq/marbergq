@@ -27,6 +27,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                35930 commits       ███████████░░░░░░░░░░░░░░   45.17 % 
+🌆 Daytime                39885 commits       █████████████░░░░░░░░░░░░   50.14 % 
+🌃 Evening                3569 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+🌙 Night                  162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   14129 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Tuesday                  15165 commits       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Wednesday                15521 commits       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Thursday                 17183 commits       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Friday                   16114 commits       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Saturday                 463 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Sunday                   971 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Stockholm
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -44,5 +83,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 00:30:56 UTC
+ Last Updated on 14/07/2025 00:31:27 UTC
 <!--END_SECTION:waka-->
