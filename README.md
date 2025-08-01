@@ -11,6 +11,8 @@
 ![svgviewer-output](https://wakatime.com/badge/user/3f0a2069-6683-4e19-9a4a-7d21ea815067.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C238%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -25,6 +27,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                35968 commits       ███████████░░░░░░░░░░░░░░   45.15 % 
+🌆 Daytime                39959 commits       █████████████░░░░░░░░░░░░   50.16 % 
+🌃 Evening                3579 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+🌙 Night                  162 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   14165 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  15179 commits       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Wednesday                15546 commits       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Thursday                 17213 commits       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Friday                   16130 commits       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Saturday                 463 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Sunday                   972 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Stockholm
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -42,5 +83,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 00:31:14 UTC
+ Last Updated on 01/08/2025 00:32:17 UTC
 <!--END_SECTION:waka-->
