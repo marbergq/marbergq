@@ -11,15 +11,13 @@
 ![svgviewer-output](https://wakatime.com/badge/user/3f0a2069-6683-4e19-9a4a-7d21ea815067.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C261%20hrs%204%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,637 Contributions in the Year 2026
+> 🏆 2,643 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,45 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                109570 commits      ███████████░░░░░░░░░░░░░░   44.77 % 
-🌆 Daytime                114308 commits      ████████████░░░░░░░░░░░░░   46.70 % 
-🌃 Evening                19276 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-🌙 Night                  1605 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   39162 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Tuesday                  51400 commits       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Wednesday                49725 commits       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Thursday                 48724 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Friday                   46263 commits       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Saturday                 2220 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Sunday                   7265 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Stockholm
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -83,5 +42,5 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 02:56:26 UTC
+ Last Updated on 24/07/2026 02:46:14 UTC
 <!--END_SECTION:waka-->
