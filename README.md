@@ -21,7 +21,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,769 Contributions in the Year 2026
+> 🏆 3,849 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                138844 commits      ███████████░░░░░░░░░░░░░░   44.03 % 
-🌆 Daytime                150086 commits      ████████████░░░░░░░░░░░░░   47.59 % 
-🌃 Evening                24466 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-🌙 Night                  1961 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+🌞 Morning                141183 commits      ███████████░░░░░░░░░░░░░░   44.05 % 
+🌆 Daytime                152647 commits      ████████████░░░░░░░░░░░░░   47.62 % 
+🌃 Evening                24718 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+🌙 Night                  1979 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   49526 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Tuesday                  64173 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Wednesday                63720 commits       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Thursday                 64562 commits       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Friday                   61568 commits       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Saturday                 2888 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Sunday                   8920 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Monday                   50376 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  65039 commits       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Wednesday                64924 commits       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Thursday                 65697 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Friday                   62557 commits       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Saturday                 2928 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Sunday                   9006 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 
 
@@ -56,61 +56,61 @@ Sunday                   8920 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-Go                       16 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.67 % 
-JSON                     11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Other                    3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Markdown                 3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Bash                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Go                       14 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.09 % 
+JSON                     11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Other                    3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Markdown                 3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+TypeScript               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 7 mins       ███████████████████░░░░░░   75.67 % 
-Cursor                   10 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Agent                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Claude Code              31 hrs 23 mins      ███████████████████░░░░░░   74.13 % 
+Cursor                   10 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Agent                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🐱‍💻 Projects: 
-item-enrichment-service  13 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
-cross-domain-search      11 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-subscriptions-service    3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-asset-master-agent-v2-go 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Tasks                    2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+item-enrichment-service  13 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.01 % 
+cross-domain-search      11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+subscriptions-service    3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Tasks                    2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+logistics                1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 💻 Operating System: 
-Mac                      45 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      42 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 45 mins (88.15%)
+⏱ AI Coding Time: 36 hrs 59 mins (87.38%)
 
-✍️ 18,272 lines written by AI, 597 lines written by hand (96.84% AI-written)
+✍️ 17,196 lines written by AI, 597 lines written by hand (96.64% AI-written)
 
-🔤 42,699,165 Input Tokens, 5,330,917 Output Tokens
+🔤 39,053,475 Input Tokens, 5,090,310 Output Tokens
 
-💵 $1910.29 Estimated AI Cost This Week
+💵 $1822.15 Estimated AI Cost This Week
 
-🧠 289 AI Sessions, 788 AI Prompts
+🧠 286 AI Sessions, 760 AI Prompts
 
-Fable                    15,323 lines        █████████████████████░░░░   82.27 % 
-Opus                     3,207 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Sonnet                   95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Fable                    14,324 lines        ████████████████████░░░░░   81.62 % 
+Opus                     3,130 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Sonnet                   95 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.84% of written lines came from AI
-📚 Verbose Prompter — average 14,473 characters per prompt
+🤖 AI-Driven — 96.64% of written lines came from AI
+📚 Verbose Prompter — average 14,978 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.62% of changed lines were hand-edited
+🚀 High AI Trust — 7.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       44 repos            █████████░░░░░░░░░░░░░░░░   35.77 % 
-TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Go                       45 repos            █████████░░░░░░░░░░░░░░░░   36.29 % 
+TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
@@ -120,5 +120,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 03:12:02 UTC
+ Last Updated on 08/09/2026 03:44:08 UTC
 <!--END_SECTION:waka-->
