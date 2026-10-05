@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                165323 commits      ███████████░░░░░░░░░░░░░░   44.92 % 
-🌆 Daytime                186879 commits      █████████████░░░░░░░░░░░░   50.78 % 
-🌃 Evening                15003 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-🌙 Night                  834 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+🌞 Morning                190902 commits      ███████████░░░░░░░░░░░░░░   44.08 % 
+🌆 Daytime                208934 commits      ████████████░░░░░░░░░░░░░   48.25 % 
+🌃 Evening                30518 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+🌙 Night                  2704 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   57573 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Tuesday                  69961 commits       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Wednesday                78630 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Thursday                 78666 commits       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Friday                   77209 commits       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Saturday                 1967 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Sunday                   4033 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Monday                   67753 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  83851 commits       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Wednesday                90407 commits       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Thursday                 88949 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Friday                   87420 commits       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Saturday                 4020 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Sunday                   10658 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 
@@ -56,53 +56,53 @@ Sunday                   4033 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-Markdown                 8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Go                       6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-SQL                      5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Markdown                 8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Go                       6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+SQL                      5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 Python                   4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-TypeScript               3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript               3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 42 mins      █████████████████████████   98.07 % 
+Claude Code              41 hrs 39 mins      █████████████████████████   98.06 % 
 Codex Vscode             26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-platform                 10 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-data-platform            8 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-dealer-ui                4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-ism-manamgent-tool-v2    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-wayke                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+platform                 10 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+data-platform            8 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+dealer-ui                4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+wayke                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+ism-manamgent-tool-v2    3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 💻 Operating System: 
-Mac                      42 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 31 mins (99.98%)
+⏱ AI Coding Time: 42 hrs 28 mins (99.98%)
 
-✍️ 36,057 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 35,963 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 101,764,498 Input Tokens, 5,407,754 Output Tokens
+🔤 101,726,879 Input Tokens, 5,396,878 Output Tokens
 
-💵 $1798.14 Estimated AI Cost This Week
+💵 $1796.96 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 889 AI Prompts
+🧠 61 AI Sessions, 888 AI Prompts
 
-Opus                     26,872 lines        ██████████████████░░░░░░░   73.54 % 
-Fable                    9,199 lines         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Opus                     26,778 lines        ██████████████████░░░░░░░   73.47 % 
+Fable                    9,199 lines         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
 GPT                      459 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,652 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📚 Verbose Prompter — average 1,654 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -123,5 +123,5 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/marbergq/marbergq/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 04:41:56 UTC
+ Last Updated on 05/10/2026 04:41:02 UTC
 <!--END_SECTION:waka-->
